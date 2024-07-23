@@ -1,0 +1,23 @@
+body {
+    background: gray;
+}
+div {
+    font-family: Helvetica;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: white;
+}
+h2 {
+    font-family: Arial;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: large;
+}
+
+h1 {
+    color: teal;
+    font-size: large;
+    font-weight: 300;
+}
